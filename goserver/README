@@ -16,4 +16,6 @@ DATABASES = {
 
 이렇게 설정한다
 
+4. instant client 폴더를 시스템 변수 PATH 에서 설정해준다
+
 그럼 연결 끝!
