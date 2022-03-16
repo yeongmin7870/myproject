@@ -1,0 +1,19 @@
+
+1. Instance Client 를 다운받는다
+
+2. Oracle cloud Wallet 폴더를 넣는게 아니라 안에 내용물을 그대로 복사해서 instance -> network -> admin -> 이 안에다가 복붙한다
+
+3. setting 에서
+
+DATABASES = {
+    'default': {
+        'ENGINE': 'django.db.backends.oracle',
+        'NAME': 'db202203091416_high',
+        'USER': 'admin',
+        'PASSWORD': 'Cloudoracle123',  # Please provide the db password here
+    }
+}
+
+이렇게 설정한다
+
+그럼 연결 끝!
