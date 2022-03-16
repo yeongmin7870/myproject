@@ -1,7 +1,7 @@
 
 1. Instance Client 를 다운받는다
 
-2. Oracle cloud Wallet 폴더를 넣는게 아니라 안에 내용물을 그대로 복사해서 instance -> network -> admin -> 이 안에다가 복붙한다
+2. Oracle cloud Wallet 폴더를 넣는게 아니라 Wallet 안에 내용물을 그대로 복사해서 instance client -> network -> admin -> 이 안에다가 복붙한다
 
 3. setting 에서
 
